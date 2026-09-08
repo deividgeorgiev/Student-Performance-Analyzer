@@ -48,6 +48,8 @@ The project was developed as part of my **independent study** of the Python prog
 
 # What I Learned
 
-Realizing and developing this project allowed me to apply the Python concepts I studied independently to a practical problem.
+Realizing and developing this project allowed me to apply the Python concepts I studied independently to a practical problem. The Student Performance Analyzer is the most advanced project I have created so far and represents an important step in developing my skills as a beginner programmer. Throughout its development, I deepened my knowledge and enhanced my ability to write, structure, and implement code for a functional program. The creation and implementation of this project also allowed me to combine different Python concepts and apply them together in a practical application rather than using them individually. 
 
-Throughout the process, I strengthened my understanding of how loops, understood the logic behind the conditional statements, learned why input validation is crucial in programming and explored how data structures are created. I also gained experience in designing a program myself , using a real-world case and making it adaptable to different subjects, grading systems, and desired averages.
+Throughout the process, I strengthened my understanding of how loops work, understood the logic behind the conditional statements, learned why input validation is crucial in programming and explored how data structures are created. I also gained experience in designing a program myself , using a real-world case and making it adaptable to different subjects, grading systems, and desired averages.
+
+This project helped me improve not only my technical knowledge of Python, but also my problem-solving and logical thinking skills. It gave me an opportunity to develop a complete application from an initial idea to a working program. 
