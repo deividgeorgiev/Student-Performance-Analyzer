@@ -37,9 +37,9 @@ The project was developed as part of my **independent study** of the Python prog
 3. Open a terminal in the project folder
 4. Run the following commands:
    - navigate to Desktop - cd Desktop
-   - navigate to the folder containing the py. file - cd Student-Performance-Analyzer 
+   - navigate to the folder containing the py. file - cd (Your folder's name) 
    - open the Python file using Python or a Python-compatible editor
-   - run the program - python3 Student-Performance-Analyzer.py
+   - run the program - python spa.py (or python3 spa.py)
 5. Follow the instructions displayed in the terminal.
 
 # Future Improvements
